@@ -5,6 +5,6 @@
   "labels": ["dependencies", "renovate"],
   "major": { "automerge": false },
   "platformAutomerge": true,
-  "schedule": ["after 10pm every weekday", "before 5am every weekday"],
+  "schedule": ["after 10pm", "before 5am"],
   "timezone": "Asia/Tokyo"
 }
