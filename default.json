@@ -6,5 +6,8 @@
   "major": { "automerge": false },
   "platformAutomerge": true,
   "schedule": ["after 10pm", "before 5am"],
-  "timezone": "Asia/Tokyo"
+  "timezone": "Asia/Tokyo",
+  "vulnerabilityAlerts": {
+    "enabled": true
+  }
 }
