@@ -3,6 +3,10 @@
   "automerge": true,
   "extends": ["config:best-practices", ":pinDependencies"],
   "labels": ["dependencies", "renovate"],
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": ["before 4am on the first day of the month"]
+  },
   "major": { "automerge": false },
   "platformAutomerge": true,
   "schedule": ["after 10pm", "before 5am"],
