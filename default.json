@@ -8,6 +8,7 @@
     "schedule": ["before 4am on the first day of the month"]
   },
   "major": { "automerge": false },
+  "minimumReleaseAge": "7 days",
   "packageRules": [
     {
       "matchPackageNames": ["aquaproj/aqua-registry"],
