@@ -16,6 +16,8 @@
     }
   ],
   "platformAutomerge": true,
+  "prConcurrentLimit": 5,
+  "prHourlyLimit": 0,
   "schedule": ["after 10pm", "before 5am"],
   "timezone": "Asia/Tokyo",
   "vulnerabilityAlerts": {
